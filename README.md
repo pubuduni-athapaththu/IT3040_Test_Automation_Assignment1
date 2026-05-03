@@ -18,3 +18,6 @@ npx playwright test
 - tests/
 - test data
 - config files
+
+##  test caes run
+py test_automation.py --excel "C:\Users\ASUS\ITPM ASSIMENT 1\test_automation (1)\test_automation\Assignment 1 - Test cases.xlsx"
